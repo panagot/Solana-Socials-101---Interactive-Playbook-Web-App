@@ -2,6 +2,8 @@
 
 A comprehensive, interactive web application guide for building your social presence in the Solana ecosystem. Built with React and featuring a Google Analytics-style dashboard UI.
 
+🌐 **Live Demo:** [https://solana-socials-101-interactive-play-five.vercel.app/](https://solana-socials-101-interactive-play-five.vercel.app/)
+
 ## 🚀 Features
 
 - **Interactive Dashboard** - Visual overview with charts and metrics
